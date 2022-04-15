@@ -1,0 +1,56 @@
+
+*{
+    margin-top: 0;
+}
+.fundo{
+    background: url(Imagens/fundo.png);
+    
+    
+}
+
+.largura{
+    width: 900px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.fonte-menu{
+
+   font: bold 20px verdana ;
+    
+    background-color: rgb(117, 99, 76);
+    height: 50px;
+    text-align: center;
+    padding-top: 25px;
+    
+   
+}
+a{
+    color: rgb(1, 16, 85);
+    text-decoration: none;
+    padding: 10px;
+}
+.titulo{
+    font: bold 20px verdana ;
+    color: rgb(117, 99, 76);
+    padding: 10px;
+}
+
+.rodape{
+    background-color: rgb(117, 99, 76);
+    height: 50px;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 20px;
+   
+}
+
+.fundo-texto{
+    background-color:  rgb(179, 179, 179);
+    padding: 10px;
+    
+}
+
+.imagem-borda{
+    border: 5px solid rgb(1, 16, 85);
+}
